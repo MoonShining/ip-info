@@ -9,6 +9,7 @@ parse ipip.net's free ip database, convert to csv format
 3. run `ruby iphero.rb`
 4. ips.csv is the file you need!
 
+---
 
 解析ipip.net的免费版ip数据库，并转换成CSV格式
 
