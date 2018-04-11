@@ -2,7 +2,7 @@
 
 parse ipip.net's free ip database, convert to csv format
 
-##Usage
+## Usage
 
 1. clone this project
 2. replace the 17monipdb.dat(you can fine the newest release version at [ipip.net](https://www.ipip.net/index.html#down))
@@ -12,6 +12,7 @@ parse ipip.net's free ip database, convert to csv format
 
 解析ipip.net的免费版ip数据库，并转换成CSV格式
 
+## 使用方法
 
 1. clone本项目
 
